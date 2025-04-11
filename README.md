@@ -20,6 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafar-sweity&show_icons=true&locale=en" alt="jafar-sweity" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafar-sweity&hide_progress=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jafar-sweity&" alt="jafar-sweity" /></p>
