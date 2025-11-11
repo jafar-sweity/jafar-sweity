@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar-sweity&label=Profile%20views&color=0e75b6&style=flat" alt="jafar-sweity" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafar-sweity&title=-Issues,-Reviews,-Stars&theme=onedark&margin-w=15" alt="jafar-sweity" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafar-sweity" alt="jafar-sweity" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jafar-sweiti-a00983281/" target="_blank">
