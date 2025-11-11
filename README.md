@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm jafar sweity 👋</h1>
-<h3 align="center">Student at Najah University - Computer Engineering</h3>
+<p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120" role="img" aria-labelledby="title"><title id="title">Typing: Hi I'm jafar sweity 👋</title><rect width="100%" height="100%" fill="transparent"/><style>.txt{font:36px 'Courier New',Courier,monospace;fill:#0d1117}.sub{font:16px 'Courier New',Courier,monospace;fill:#374151}.cursor{fill:#0d1117}</style><defs><mask id="revealMask"><rect x="0" y="0" width="800" height="120" fill="black"/><rect id="wipe" x="0" y="28" width="0" height="50" fill="white"><animate attributeName="width" from="0" to="720" dur="3.5s" begin="0s" fill="freeze" calcMode="linear"/></rect></mask></defs><g mask="url(#revealMask)"><text x="20" y="68" class="txt">Hi I'm jafar sweity 👋</text></g><rect id="cursor" x="360" y="26" width="8" height="46" class="cursor" rx="2"><animate attributeName="x" from="20" to="672" dur="3.5s" begin="0s" fill="freeze" calcMode="linear"/><animate attributeName="opacity" values="1;0;1" dur="1s" begin="0s;cursor.opacity.end+0.1" repeatCount="indefinite"/></rect><text x="20" y="100" class="sub">Student at Najah University - Computer Engineering</text></svg></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar-sweity&label=Profile%20views&color=0e75b6&style=flat" alt="jafar-sweity" /> </p>
 
