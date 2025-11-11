@@ -1,5 +1,7 @@
-<h1 align="center">Hi I'm jafar sweity 👋</h1>
-<h3 align="center">Student at Najah University - Computer Engineering</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=7000&pause=1000&color=EAEAEA&center=true&vCenter=true&width=1000&lines=Hi+I'm+jafar+sweity+%F0%9F%91%8B;Graduated+from+Najah+University+-+Computer+Engineering+%F0%9F%8E%93;Junior+Full-Stack+%26+DevOps+%F0%9F%92%BB" alt="Typing animation for Jafar Sweity" />
+</h1>
+
 
 
 
